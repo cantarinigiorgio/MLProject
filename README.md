@@ -9,4 +9,5 @@ After that the function load_cifar() in main.m load images and labels and three 
 
 Changing the first parameter given to the function category in main.m you could change category of the images to use (category are: airplane,automobile,bird,cat,deer,dog,frog,horse,ship,truck).
 
-K-fold Cross-Validation is done by the function holdoutCV.m that evaluates for RGB, grayscale and LAB images the error for each feature extracte and at least plot results in three graphics (one for each color model).
+K-fold Cross-Validation is done by the function holdoutCV.m that evaluates for RGB, grayscale and LAB images the percentage of error
+ for each feature extracted thanks to SVM algorithm and at least plot results in three graphics (one for each color model).
