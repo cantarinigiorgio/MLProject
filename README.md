@@ -1,4 +1,4 @@
-# MLProject
+# Machine Learning Project
 
 # Pre-processing and features extraction for image classification
 
