@@ -1,6 +1,6 @@
 # Machine Learning Project
 
-# Pre-processing and features extraction for image classification
+# Pre-processing and Features Extraction for Image Classification
 
 Before starting you have to download CIFAR-10 dataset (Matlab version) from (https://www.cs.toronto.edu/~kriz/cifar.html).
 Then you unzip the folder and put data_batch_1.mat , data_batch_2.mat , data_batch_3.mat , data_batch_4.mat , data_batch_5.mat into cifar-10 folder of this project (the sizes of this file.mat are greater than the maximum file size accepted by github).
